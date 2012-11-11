@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="choose_actions">
+        <item>@string/choose_a_pic</item>
+        <item>@string/take_a_pic</item>
+    </string-array>
+
+</resources>
